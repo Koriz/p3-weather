@@ -1,0 +1,32 @@
+/* 
+  Heads: font-family: 'Candal', sans-serif;
+  Body: font-family: 'Cuprum', sans-serif;
+*/
+
+body {
+  margin: 0 auto;
+}
+
+.head,
+.city,
+.temp {
+  text-align: center;
+  color: #00ABFF;
+  font-size: 2em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  width: 100;
+}
+
+.head {
+  font-family: 'Candal', sans-serif;
+}
+
+.city,
+.temp {
+  font-family: 'Cuprum', sans-serif;
+}
